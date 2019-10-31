@@ -28,7 +28,7 @@
 			<a class="nav-item nav-link js-scroll-trigger" href="#">Gallery</a>
 		     <li class="nav-item dropdown">
 		        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					<i class="fa-1x fas nav-item nav-link fa-user-circle"></i> Account
+					<i class="fa fas nav-item nav-link fa-user-circle"></i> Account
 		        </a>
 		        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 		          <a class="dropdown-item" href="login.php">Masuk</a>

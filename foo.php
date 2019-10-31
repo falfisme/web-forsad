@@ -8,12 +8,12 @@
     <ul class="list-unstyled list-inline text-center">
       <li class="list-inline-item">
         <a class="btn-floating btn-fb mx-1 text-white" href="facebook.com/forsadqm">
-          <i class="fab fa-facebook-f"> </i>
+          <i class="fa fa-facebook-f"> </i>
         </a>
       </li>
       <li class="list-inline-item">
         <a class="btn-floating btn-tw mx-1 text-white" href="http://www.instagram.com/forsadqm">
-          <i class="fab fa-instagram"></i> 
+          <i class="fa fa-instagram"></i> 
         </a>
       </li>
     </ul>
